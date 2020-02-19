@@ -1,4 +1,5 @@
 # Bootstrap
+Bootstrap adalah kerangka kerja CSS yang sumber terbuka dan bebas untuk merancang situs web dan aplikasi web. Kerangka kerja ini berisi templat desain berbasis HTML dan CSS untuk tipografi, formulir, tombol, navigasi, dan komponen antarmuka lainnya, serta juga ekstensi opsional JavaScript. Tidak seperti kebanyakan kerangka kerja web lainnya, kerangka kerja ini hanya fokus pada pengembangan front-end saja.
 # Bootstrap Color
 ![AltText](https://github.com/naufal025/Bootstrap/blob/master/b1.png "Botstrap Color")
 # Bootstrap Grid
